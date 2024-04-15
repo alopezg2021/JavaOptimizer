@@ -43,6 +43,11 @@
         <jackson.version>2.12.6</jackson.version>
     </properties>
 
+    <properties>
+        <sonar.organization>alopezg2021</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
+
 
     <distributionManagement>
         <snapshotRepository>
